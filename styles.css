@@ -1,0 +1,47 @@
+
+.image{
+	display: table;
+	margin: 0 auto;
+}
+
+.story{
+background-color: floralwhite;
+
+}
+
+.deathratesmap{
+	display: table;
+	margin: 0 auto;
+	padding-top: 50px;
+}
+
+.heading{
+	padding-left: 50px;
+	font-family: 'roboto condensed', sans-serif;
+	display: table;
+	margin: 0 auto;
+	font-size: 20px;
+	;
+}
+
+.byline_dateline{
+display:flex;
+flex-direction:column;
+text-align:center;
+}
+
+.article{;
+	font-size: 25px;
+	font-family: 'roboto condensed', sans-serif;
+	display:flex;
+	justify-content:center;
+	flex-direction:column;
+	margin-left: 250px;
+	margin-right: 250px;
+}
+.link{
+	float: right;
+}
+
+
+
